@@ -1,0 +1,6 @@
+{
+  "name": "Meta One Subscription Service",
+  "description": "Unified subscription service bundling WhatsApp Plus, Instagram Plus, Meta Verified, Clickable Reels Links, and Meta AI Deep Reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
